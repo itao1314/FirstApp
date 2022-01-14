@@ -11,6 +11,7 @@
 		2B26EC74278FFF78009685FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B26EC73278FFF78009685FC /* ContentView.swift */; };
 		2B26EC76278FFF79009685FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B26EC75278FFF79009685FC /* Assets.xcassets */; };
 		2B26EC79278FFF79009685FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B26EC78278FFF79009685FC /* Preview Assets.xcassets */; };
+		2B5C6D4F27914B54007FEDF5 /* ByeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5C6D4E27914B54007FEDF5 /* ByeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2B26EC73278FFF78009685FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2B26EC75278FFF79009685FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B26EC78278FFF79009685FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2B5C6D4E27914B54007FEDF5 /* ByeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2B26EC71278FFF78009685FC /* FirstAppApp.swift */,
 				2B26EC73278FFF78009685FC /* ContentView.swift */,
+				2B5C6D4E27914B54007FEDF5 /* ByeView.swift */,
 				2B26EC75278FFF79009685FC /* Assets.xcassets */,
 				2B26EC77278FFF79009685FC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B5C6D4F27914B54007FEDF5 /* ByeView.swift in Sources */,
 				2B26EC74278FFF78009685FC /* ContentView.swift in Sources */,
 				2B26EC72278FFF78009685FC /* FirstAppApp.swift in Sources */,
 			);
